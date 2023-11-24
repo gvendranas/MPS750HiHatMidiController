@@ -10,4 +10,4 @@ Tip: hihat output. This can be used to sense hihat opening status. I mapped it t
 Ring: 5V
 Sleeve: GND.
 
-Please do the hack at your own risk. I am not risponsible for any damage caused to your HW or SW.
+Please do the hack at your own risk. I am not responsible for any damage caused to your HW or SW.
